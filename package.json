@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "MCP UI builder by Taroify",
+  "license": "MIT",
+  "keywords": ["mcp", "taro", "taroify", "taro-ui"],
+  "homepage": "https://taroify.github.io/taroify.com/mcp/",
   "main": "dist/index.js",
   "bin": {
     "@taroify/mcp": "dist/index.js"
@@ -11,13 +14,18 @@
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/taroify/taroify-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taroify/taroify-mcp/issues/new"
+  },
   "scripts": {
     "build": "tsup",
     "download": "jiti scripts/downloadRepo",
     "analyze": "jiti scripts/analyze-doc"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.9.0",
     "zod": "^3.24.2"

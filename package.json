@@ -1,0 +1,44 @@
+{
+  "name": "@taroify/mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP UI builder by Taroify",
+  "main": "dist/index.js",
+  "bin": {
+    "@taroify/mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "download": "jiti scripts/downloadRepo",
+    "analyze": "jiti scripts/analyze-doc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "giget": "^2.0.0",
+    "ora": "^8.2.0",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  },
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

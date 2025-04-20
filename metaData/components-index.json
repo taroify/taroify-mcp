@@ -1,0 +1,274 @@
+[
+  {
+    "name": "ActionSheet",
+    "dirName": "action-sheet"
+  },
+  {
+    "name": "AreaPicker",
+    "dirName": "area-picker"
+  },
+  {
+    "name": "Avatar",
+    "dirName": "avatar"
+  },
+  {
+    "name": "BackTop",
+    "dirName": "back-top"
+  },
+  {
+    "name": "Backdrop",
+    "dirName": "backdrop"
+  },
+  {
+    "name": "Badge",
+    "dirName": "badge"
+  },
+  {
+    "name": "Button",
+    "dirName": "button"
+  },
+  {
+    "name": "Calendar",
+    "dirName": "calendar"
+  },
+  {
+    "name": "Cascader",
+    "dirName": "cascader"
+  },
+  {
+    "name": "Cell",
+    "dirName": "cell"
+  },
+  {
+    "name": "Checkbox",
+    "dirName": "checkbox"
+  },
+  {
+    "name": "Circle",
+    "dirName": "circle"
+  },
+  {
+    "name": "Collapse",
+    "dirName": "collapse"
+  },
+  {
+    "name": "ConfigProvider",
+    "dirName": "config-provider"
+  },
+  {
+    "name": "Countdown",
+    "dirName": "countdown"
+  },
+  {
+    "name": "DatetimePicker",
+    "dirName": "datetime-picker"
+  },
+  {
+    "name": "Dialog",
+    "dirName": "dialog"
+  },
+  {
+    "name": "Divider",
+    "dirName": "divider"
+  },
+  {
+    "name": "DropdownMenu",
+    "dirName": "dropdown-menu"
+  },
+  {
+    "name": "Empty",
+    "dirName": "empty"
+  },
+  {
+    "name": "Field",
+    "dirName": "field"
+  },
+  {
+    "name": "FixedNav",
+    "dirName": "fixed-nav"
+  },
+  {
+    "name": "FixedView",
+    "dirName": "fixed-view"
+  },
+  {
+    "name": "Flex",
+    "dirName": "flex"
+  },
+  {
+    "name": "FloatingBubble",
+    "dirName": "floating-bubble"
+  },
+  {
+    "name": "FloatingPanel",
+    "dirName": "floating-panel"
+  },
+  {
+    "name": "Form",
+    "dirName": "form"
+  },
+  {
+    "name": "Grid",
+    "dirName": "grid"
+  },
+  {
+    "name": "Image",
+    "dirName": "image"
+  },
+  {
+    "name": "IndexList",
+    "dirName": "index-list"
+  },
+  {
+    "name": "List",
+    "dirName": "list"
+  },
+  {
+    "name": "Loading",
+    "dirName": "loading"
+  },
+  {
+    "name": "Navbar",
+    "dirName": "navbar"
+  },
+  {
+    "name": "NoticeBar",
+    "dirName": "notice-bar"
+  },
+  {
+    "name": "Notify",
+    "dirName": "notify"
+  },
+  {
+    "name": "NumberKeyboard",
+    "dirName": "number-keyboard"
+  },
+  {
+    "name": "Pagination",
+    "dirName": "pagination"
+  },
+  {
+    "name": "PasswordInput",
+    "dirName": "password-input"
+  },
+  {
+    "name": "Picker",
+    "dirName": "picker"
+  },
+  {
+    "name": "Popup",
+    "dirName": "popup"
+  },
+  {
+    "name": "Progress",
+    "dirName": "progress"
+  },
+  {
+    "name": "PullRefresh",
+    "dirName": "pull-refresh"
+  },
+  {
+    "name": "Radio",
+    "dirName": "radio"
+  },
+  {
+    "name": "Rate",
+    "dirName": "rate"
+  },
+  {
+    "name": "RollingText",
+    "dirName": "rolling-text"
+  },
+  {
+    "name": "SafeArea",
+    "dirName": "safe-area"
+  },
+  {
+    "name": "Search",
+    "dirName": "search"
+  },
+  {
+    "name": "ShareSheet",
+    "dirName": "share-sheet"
+  },
+  {
+    "name": "Sidebar",
+    "dirName": "sidebar"
+  },
+  {
+    "name": "Signature",
+    "dirName": "signature"
+  },
+  {
+    "name": "Skeleton",
+    "dirName": "skeleton"
+  },
+  {
+    "name": "Slider",
+    "dirName": "slider"
+  },
+  {
+    "name": "Space",
+    "dirName": "space"
+  },
+  {
+    "name": "Stepper",
+    "dirName": "stepper"
+  },
+  {
+    "name": "Steps",
+    "dirName": "steps"
+  },
+  {
+    "name": "Sticky",
+    "dirName": "sticky"
+  },
+  {
+    "name": "SwipeCell",
+    "dirName": "swipe-cell"
+  },
+  {
+    "name": "Swiper",
+    "dirName": "swiper"
+  },
+  {
+    "name": "Switch",
+    "dirName": "switch"
+  },
+  {
+    "name": "Tabbar",
+    "dirName": "tabbar"
+  },
+  {
+    "name": "Tabs",
+    "dirName": "tabs"
+  },
+  {
+    "name": "Tag",
+    "dirName": "tag"
+  },
+  {
+    "name": "TextEllipsis",
+    "dirName": "text-ellipsis"
+  },
+  {
+    "name": "Timeline",
+    "dirName": "timeline"
+  },
+  {
+    "name": "Toast",
+    "dirName": "toast"
+  },
+  {
+    "name": "TreeSelect",
+    "dirName": "tree-select"
+  },
+  {
+    "name": "Uploader",
+    "dirName": "uploader"
+  },
+  {
+    "name": "Watermark",
+    "dirName": "watermark"
+  }
+]

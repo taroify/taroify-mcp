@@ -13,7 +13,7 @@ type ComponentData = {
 };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const dataDir = resolve(__dirname, "../metaData");
+const dataDir = resolve(__dirname, "../dist/metaData");
 const repoDir = resolve(__dirname, "../.repo");
 const exampleTsxPath: string[] = [];
 

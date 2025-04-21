@@ -18,9 +18,12 @@ export interface Config {
 
 export const config: Config = {
   paths: {
-    dataDir: resolve(__dirname, "./metaData"),
-    componentsDir: resolve(__dirname, "./metaData/components"),
-    componentsIndexPath: resolve(__dirname, "./metaData/components-index.json"),
+    dataDir: resolve(__dirname, "../metaData"),
+    componentsDir: resolve(__dirname, "../metaData/components"),
+    componentsIndexPath: resolve(
+      __dirname,
+      "../metaData/components-index.json"
+    ),
   },
   server: {
     name: "taroify-mcp",

@@ -1,6 +1,6 @@
 {
   "name": "@taroify/mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "MCP UI builder by Taroify",
   "license": "MIT",

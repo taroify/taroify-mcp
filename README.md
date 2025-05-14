@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/taroify-taroify-mcp-badge.png)](https://mseep.ai/app/taroify-taroify-mcp)
+
 <p align="center">
   <img alt="logo" src="https://img.yzcdn.cn/vant/logo.png" width="120" style="margin-bottom: 10px;">
 </p>
